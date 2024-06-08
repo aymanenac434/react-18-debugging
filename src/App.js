@@ -12,6 +12,7 @@ import { allBugs } from "./all-bugs";
 
 import "./App.css";
 
+
 const theme = {
   global: {
     font: {
